@@ -15,7 +15,11 @@
 
       <Button type="submit" btnType="primary" text="Cari"></Button>
       <span>atau</span>
-      <Button btnType="primary" text="Lihat Semua Posisi"></Button>
+      <Button
+        btnType="primary"
+        text="Lihat Semua Posisi"
+        path="/karier"
+      ></Button>
     </form>
   </div>
 </template>
